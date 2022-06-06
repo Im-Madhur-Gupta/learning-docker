@@ -1,1 +1,3 @@
 node_modules
+/A_secret.txt
+/B_secret.txt
