@@ -1,3 +1,4 @@
 node_modules
+.git
 /A_secret.txt
 /B_secret.txt
